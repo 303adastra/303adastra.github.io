@@ -1,5 +1,5 @@
-= PID-Controlled Clock Drive =
+= 303AdAstra =
 
-The goal of this project is to provide documentation for building a DIY https://en.wikipedia.org/wiki/Clock_drive[clock drive]
-for controlling an equatorial-mounted telescope,
-using a https://en.wikipedia.org/wiki/Real-time_clock[real-time clock] driven https://en.wikipedia.org/wiki/PID_controller[PID controller] for celestial tracking.
+This repository contains the landing page content for 303AdAstra - a space science blog for amateur astronomer & open-source developers.
+
+This site is hosted at https://303adastra.github.io
