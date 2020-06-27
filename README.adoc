@@ -1,5 +1,5 @@
 = 303AdAstra =
 
-This repository contains the landing page content for 303AdAstra - a space science blog for amateur astronomer & open-source developers.
+This repository contains the landing page content for 303AdAstra.
 
 This site is hosted at https://303adastra.github.io
