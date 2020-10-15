@@ -68,7 +68,7 @@ id = "UA-00000000-0"
 [languages]
 [languages.en]
 title = "303adastra"
-description = "A space science blog for amateur astronomers & open source developers"
+description = "A citizen scientists guide to accelerating humanity towards a post-scarcity space-faring civilization"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
