@@ -1,0 +1,138 @@
+---
+aliases:
+- /realizing-a-star-trek-future-part-1
+author: Sean Marquez
+date: "2021-04-11"
+draft: true
+summary: A 1st principles analysis on the socioeconomics of Star Trek
+tags:
+- post scarcity
+title: Realizing a Star Trek Future (Part 1)
+weight: 3
+---
+
+== Preface
+
+=== Why am I writing this blog post?
+
+// Pathos: "Why am I reading this?"
+
+At the time of writing,
+humanity celebrates its https://yurisnight.net/[60th anniversity of human spaceflight]
+and an experimental helicopter prepares for its https://mars.nasa.gov/technology/helicopter/[first flight on another planet].
+
+I wanted to take a moment to not only reflect on how far we've come,
+but also contemplate on where we should be going from here.
+
+I don't intend this post to be a persuasive essay;
+rather, more of a high-level technical specification
+(with commentary) for building a post-scarcity civilization that can someday scale to a space-faring one.
+
+== A specification for a Star Trek future
+
+In order to know whether we're building something correctly, we must first specify what we're building. 
+
+=== We should aspire towards a more humanistic future
+
+// Pathos: "Why should I care?"
+
+The moral imperative of this post is that we should embrace humanism
+- the philosophy that values and celebrates the best of what humanity can be.footnote:[https://web.archive.org/web/20070621142925/http://www.philosophysphere.com/humanist.html[Interview of Gene Roddenberry: Writer, Producer, Philosopher, Humanist], by David Alexander, The Humanist magazine, March/April 1991. Archived version accessed 19 October 2007.]
+If we're to develop new technological capabilities,
+enabling novel ways in which we venture into the cosmos,
+which is arguably inevitable,
+then we ought to bring with us nothing short of the most admirable traits of humanity.
+
+Gene Roddenberry,
+creator of Star Trek,
+told actor (now director) Jonathan Frakes,
+_"In the 24th century...
+There will be no hunger,
+there will be no greed,
+and all the children will know how to read."_
+
+.Gene Roddenberry: The Star Trek Philosophy
+video::oEyLtiKuroA[youtube]
+
+Roddenberry's vision of the future is one based on the philosophy of humanism.
+
+=== We should avoid a dystopian future
+
+We should avoid a dystopia
+- a future in which we've overstimulated our dopamine sensors
+and deprioritized environmental issues,
+but advanced private/commercial spacetravel
+- to the extent that you could afford to go.
+i.e., Disney/Pixar's Wall-E
+
+.Wall-E as Sociological Storytelling
+video::Z1-vPQKwXbY[youtube]
+
+=== Our obligations to the pale blue dot
+
+__The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand. It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known. — Carl Sagan, Pale Blue Dot, 1994.__footnote:[https://www.planetary.org/worlds/pale-blue-dot]
+
+Like it or not, we all have a moral imperative to share this rock floating through space, which we call "Earth".
+
+== Framing the problem
+
+// Ethos: "I'm skeptical of humanism; change my mind"
+
+_We cannot solve our problems with the same thinking we used when we created them. - Albert Einstein_
+
+The first step in solving any problem is recognizing that there is one.
+Likewise, seeing novel solutions requires the ability to reason from 1st principles.
+
+=== Designing a just society
+
+In order to become a society that embraces humanism,
+it may be useful to know how to build a society.
+Consider the following thought experiment...
+You've just been elected leader of the new world (congrats!).
+Your first task on the job is to establish a set of "fair and just" policies for how society will operate.
+Where do you start?
+
+.How Do You Design a Just Society? | Thought Experiment: The Original Position
+video::P3gWGtf_w_s[youtube]
+
+Political philosopher, John Rawls, may argue it is virtually impossible,
+since creating a completely "fair and just" society will require a "veil of ignorance" of ones personal identity,
+as to deter bias in the policy formation process.footnote:[https://plato.stanford.edu/entries/original-position/]
+Perhaps you consider the basic needs of a human:
+food, energy, clean water, garabage management, sewage treatment, and shelter.
+What would it require to provide every human being with these needs?
+How do you accommodate for those who have special needs and/or disabilities?
+What mechanisms will we use to produce and deliver those needs?
+
+=== Designing a post-scarcity society
+
+Designing a post-scarcity society is a necessary prerequisite to realizing the fundamental vision of Star Trek.
+Markets will emerge out of virtually every society,
+and in doing so, they will run into the issue of scarcity.
+Historically speaking, scarcity has brought about war, famine, disease, greed, and (arguably) capitalism, but I digress...
+Post-scarcity is a theoretical economic situation in which goods and services that provide basic needs are produced in surplus and distributed with minimal to no human labor.footnote:[Sadler, Philip (2010), Sustainable Growth in a Post-Scarcity World: Consumption, Demand, and the Poverty Penalty, Surrey, England: Gower Applied Business Research, p. 7, ISBN 978-0-566-09158-2]footnote:[Robert Chernomas. (1984). https://www.jstor.org/stable/4225503["Keynes on Post-Scarcity Society."] In: Journal of Economic Issues, 18(4).]
+
+.How Do the Economics of Star Trek Actually Work?
+video::7_474dBpn6c[youtube]
+
+The 24th-century society of https://memory-alpha.fandom.com/wiki/Star_Trek:_The_Next_Generation[Star Trek: The Next Generation] and https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine[Star Trek: Deep Space Nine] has been labeled a **post-scarcity** society,
+due to the ability of the fictional "replicator" technology,
+with the capability of instantaneously synthesizing almost anything from a ships replicator reserves.footnote:[Fung, Brian; Peterson, Andrea; Tsukayama, Hayley; Saadia, Manu; Salmon, Felix (7 July 2015), https://www.washingtonpost.com/news/the-switch/wp/2015/07/07/what-the-economics-of-star-trek-can-teach-us-about-the-real-world/["What the economics of Star Trek can teach us about the real world"], The Washington Post, https://www.webcitation.org/6d4pe5bX6?url=https://www.washingtonpost.com/news/the-switch/wp/2015/07/07/what-the-economics-of-star-trek-can-teach-us-about-the-real-world/[archived] from the original on 16 November 2015, retrieved 8 September 2017]
+
+== Identifying a Solution
+
+// Address Logos: "What now?"
+
+Identifying a solution for building a post-scarcity society will require a collaborative effort;
+certainly, not something that can be solved in a 5 minute blog post.
+In Part 2, we'll explore some ideas for how we can bring about a post-scarcity society,
+perhaps through the lens of modern theories in cultural evolution, social contract theory, or even computational complexity.
+
+Like any other technical specification,
+it is continuously in need of review.
+Do the concepts presented in this post make sense?
+Are there more complex factors at play?
+If you'd like to provide feedback this post
+(discussions, edit suggestions, or otherwise),
+please feel free to DM me https://www.instagram.com/303adastra/[@303adastra],
+Or https://github.com/303adastra/303adastra.github.io/discussions/new[open a discussion on GitHub]
