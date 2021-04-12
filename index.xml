@@ -2,32 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>303adastra</title>
-    <link>http://localhost:1313/</link>
+    <link>https://303adastra.github.io/</link>
     <description>Recent content on 303adastra</description>
     <image>
-      <url>http://localhost:1313/papermod-cover.png</url>
-      <link>http://localhost:1313/papermod-cover.png</link>
+      <url>https://303adastra.github.io/papermod-cover.png</url>
+      <link>https://303adastra.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Realizing a Star Trek Future (Part 1)</title>
-      <link>http://localhost:1313/posts/realizing-a-star-trek-future-part-1/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/realizing-a-star-trek-future-part-1/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;A 1st principles analysis on the socioeconomics of Star Trek&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://303adastra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://303adastra.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://303adastra.github.io/about/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     
