@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://303adastra.github.io/sitemap.xml
