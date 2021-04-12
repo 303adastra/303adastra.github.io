@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>303adastra</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 303adastra</description>
+    <title>Posts on 303adastra</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 303adastra</description>
     <image>
       <url>http://localhost:1313/papermod-cover.png</url>
       <link>http://localhost:1313/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Realizing a Star Trek Future (Part 1)</title>
       <link>http://localhost:1313/posts/realizing-a-star-trek-future-part-1/</link>
@@ -21,16 +21,6 @@
 &lt;/div&gt;
 </description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>Coming soon&amp;hellip;</description>
-    </item>
-    
     
   </channel>
 </rss>
